@@ -35,7 +35,7 @@ public class Player extends Character {
 
 	public void isAlive() {
 		if (hp <= 0) {
-			System.out.println("You died");
+			System.out.println("You literally died at a Rock-Paper-Scissors Tournament, wow.");
 			System.exit(0);
 		}
 	}
