@@ -9,7 +9,7 @@ public class LordOfTheObjectsApp {
 		Scanner scanner = new Scanner(System.in);
 		
 		
-		Player player = new Player(1000);
+		Player player = new Player(100);
 		Enemy enemy1 = new Enemy(20);
 		Enemy enemy2 = new Enemy(40);
 		Enemy enemy3 = new Enemy(60);
